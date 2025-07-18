@@ -55,7 +55,7 @@ A fullstack **MERN** platform for collaboratively creating, editing, and sharing
 git clone https://github.com/rajarshi0303/Knowledge-Sharing-Platform-with-AI-Summarization.git
 cd Knowledge-Sharing-Platform-with-AI-Summarization
 ```
-### 2. Create .env in the  server/ directory:
+### 2. Create .env or rename .example to .env in the  server/ directory:
 ```
 PORT=3000
 MONGO_URI=mongodb://127.0.0.1:27017/knowledge-platform
