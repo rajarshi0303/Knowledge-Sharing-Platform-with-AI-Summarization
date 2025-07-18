@@ -1,0 +1,5 @@
+PORT=3000
+MONGO_URI=mongodb://127.0.0.1:27017/knowledge-platform
+ACCESS_TOKEN_SECRET=Raju123XYZabcd
+REFRESH_TOKEN_SECRET=PatelWYXBqrst345
+HF_API_KEY=your_huggingface_api_key_here
