@@ -2,6 +2,9 @@
 
 A fullstack **MERN** platform for collaboratively creating, editing, and sharing knowledge articles — enhanced with **AI-powered summarization** using Hugging Face's `facebook/bart-large-cnn` model.
 
+## 📽️ Demo
+👉 [Watch Demo Video](https://www.linkedin.com/feed/update/urn:li:activity:7352272761110597632/)
+
 ## ✨ Features
 
 - 🔐 **Authentication & Authorization**
