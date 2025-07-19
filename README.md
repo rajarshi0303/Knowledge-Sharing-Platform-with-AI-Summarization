@@ -32,7 +32,7 @@ A fullstack **MERN** platform for collaboratively creating, editing, and sharing
 - **Tailwind CSS**
 - **React Router**
 - **Axios**
-- **Zod** (Form validation)
+- **Zustand**
 
 ### 🌐 Backend
 - **Node.js + Express.js**
@@ -40,10 +40,12 @@ A fullstack **MERN** platform for collaboratively creating, editing, and sharing
 - **JWT (HTTP-only cookie based)**
 - **Hugging Face API** for summarization
 - **Helmet, CORS, Cookie-parser** (Security + Middleware)
+- **Zod**
 
 ### 🧠 AI Integration
+Summarization is powered by the Hugging Face Inference API, which converts long-form articles into brief, digestible summaries using NLP.
 - [Hugging Face Inference API](https://huggingface.co/docs/api-inference/index)
-  - Model: `facebook/bart-large-cnn`
+- Model: `facebook/bart-large-cnn`
 
 ---
 
