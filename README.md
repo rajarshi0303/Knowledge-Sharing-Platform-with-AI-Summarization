@@ -22,6 +22,8 @@ A fullstack **MERN** platform for collaboratively creating, editing, and sharing
 - 💡 **User Experience**
   - Responsive and modern UI with clean design
   - Error handling, loading indicators, and user feedback
+- 💼 **Admin panel**
+   - Manage users and access
 
 ---
 
