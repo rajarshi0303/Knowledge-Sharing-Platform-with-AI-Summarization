@@ -71,7 +71,7 @@ export default function ArticleDetail() {
   //console.log(article);
 
   const isAuthorOrAdmin =
-    user && (user.role === "admin" || user.id === article.createdBy._id);
+    user && (user.role === "admin" || user._id === article.createdBy._id);
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 px-6 py-10">
