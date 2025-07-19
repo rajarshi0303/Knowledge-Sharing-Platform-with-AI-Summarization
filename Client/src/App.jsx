@@ -9,7 +9,7 @@ export default function App() {
     <div>
       <ThemeProvider defaultTheme="system" storageKey="vite-ui-theme">
         <Navbar />
-        <main className="mt-20">
+        <main className="mt-16">
           <ScrollToTop />
           <AppRoutes />
         </main>
